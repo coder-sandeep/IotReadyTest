@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IotReadyTest</string>
+
+    <string name="header_text">MEAT PACKING</string>
+</resources>
